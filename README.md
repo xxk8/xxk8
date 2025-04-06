@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+I'm+Hai+%F0%9F%91%8B;Front-end+Developer;Lover+of+Code+%26+Creativity)](https://github.com/PandaFreedom)
 
- • 💻 Software Developer • 🏋️‍♂️ Fitness Enthusiast && 🚴‍♂️ Cycling && 🛣️ Hiking •
+ • 💻 Software Developer • 🏋️‍♂️ Fitness Enthusiast && 🚴‍♂️ Cycling && 🛣️ Hiking •<br/>
 科技日新月异,所以与时俱进 --- 咸蛋黄
 ---
 
@@ -65,10 +65,3 @@
 
 ---
 
-## 🗂️ 仓库
-
-⭐ 查看我在 [GitHub 个人资料 →](https://github.com/PandaFreedom) 上的固定项目
-
----
-
-_如果你喜欢我的工作，欢迎 ⭐️ 星标 或 🔁 Fork 任何仓库！_
