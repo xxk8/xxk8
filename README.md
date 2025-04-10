@@ -9,7 +9,7 @@
 <table>
 <tr>
   <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaFreedom&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=PandaFreedom&theme=tokyonight" />
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaFreedom&layout=compact&langs_count=8&hide=html,scss&theme=radical" height="180"/>
