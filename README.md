@@ -31,7 +31,7 @@
 
 | 名称 | 描述 | 技术 |
 |------|-------------|------|
-| [🚀 MyBlog](www,pandafreedom.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
+| [🚀 MyBlog](https://www.pandafreedom.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
 
 ---
 
