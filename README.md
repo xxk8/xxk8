@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+I'm+Hai+%F0%9F%91%8B;Front-end+Developer;Lover+of+Code+%26+Creativity)](https://github.com/PandaFreedom)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+I'm+Hai+%F0%9F%91%8B;Front-end+Developer;Lover+of+Code+%26+Creativity)](https://github.com/xxk8)
 
  • 💻 Software Developer • 🏋️‍♂️ Fitness Enthusiast && 🚴‍♂️ Cycling && 🛣️ Hiking •<br/>
 科技日新月异,所以与时俱进 --- 咸蛋黄
@@ -9,10 +9,10 @@
 <table>
 <tr>
   <td>
-<img src="https://streak-stats.demolab.com/?user=PandaFreedom&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=xxk8&theme=tokyonight" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaFreedom&layout=compact&langs_count=8&hide=html,scss&theme=radical" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxk8&layout=compact&langs_count=8&hide=html,scss&theme=radical" height="180"/>
   </td>
 </tr>
 </table>
@@ -31,7 +31,7 @@
 
 | 名称 | 描述 | 技术 |
 |------|-------------|------|
-| [🚀 MyBlog](https://www.pandafreedom.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
+| [🚀 MyBlog](https://www.xxk8.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 🧠 GitHub 贡献图
 
-[![GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=PandaFreedom&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=xxk8&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
