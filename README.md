@@ -21,7 +21,7 @@
 
 - 🎓 我正在学习软件工程，并对website开发充满热情。
 - ⚡️ 专注于构建具有干净 UI 和良好 SEO 的全栈应用程序。
-- 🧠 目前正在学习 **Next.js**、**Nest.js**、**Prisma** 等。
+- 🧠 目前正在学习 **Next.js**、**Nest.js**、**Prisma** **Taro** 等。
 - 🏋️‍♂️ 我热爱健身、科技产品和副项目的构建。
 - -
 
@@ -31,7 +31,8 @@
 
 | 名称 | 描述 | 技术 |
 |------|-------------|------|
-| [🚀 MyBlog](https://www.xxk8.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
+| [🚀 MyBlog](https://www.pandafreedom.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
+| [🤪wechat-emojis](https://github.com/xxk8/wechat-emojis) |微信表情包资源库，支持主流前端框架集成 | TypeScript · React · Vue · Angular|
 
 ---
 
