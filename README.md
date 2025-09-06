@@ -32,7 +32,7 @@
 |------|-------------|------|
 | [🚀 MyBlog](https://www.pandafreedom.xyz) | 具有现代 UI 和 CMS 的全栈博客 | Next.js · Nest.js · Prisma · TailwindCSS |
 | [🤪wechat-emojis](https://github.com/xxk8/wechat-emojis) |微信表情包资源库，支持主流前端框架集成 | TypeScript · React · Vue · Angular|
-
+| [💻freedomZ](https://www.freedomz.asia) | 韵色下：接单联盟SaaS，支持注册与第三方登录，具备完善的管理员机制与用户管理，内置邀请码分销裂变体系 |
 ---
 
 ## 📦 技术栈
